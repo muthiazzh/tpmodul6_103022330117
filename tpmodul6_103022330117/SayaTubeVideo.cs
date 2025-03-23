@@ -38,7 +38,7 @@ namespace tpmodul6_103022330117
     //        }
     //    }
 
-    //utk yg soal 2
+    //tambahan utk yg soal 2
     class SayaTubeVideo
     {
         private int id;
