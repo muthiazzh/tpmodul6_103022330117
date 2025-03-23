@@ -10,5 +10,11 @@ class Program
 
         video.IncreasePlayCount(404);
         video.PrintVideoDetails();
+
+        //tambahan di main utk menjelankan soal2
+        for (int i = 0; i < 100; i++)
+        {
+            video.IncreasePlayCount(10000000);
+        }
     }
 }
